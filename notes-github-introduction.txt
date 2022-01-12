@@ -1,4 +1,4 @@
-Git Commands - Project DIO
+Git Commands - DIO Project
 
 --Clona o repositório do git para local machine
 $ git clone https://github.com/Maalro/desafio-github-dio.git
